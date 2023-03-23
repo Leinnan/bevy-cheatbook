@@ -91,6 +91,11 @@ It will automatically run a minimal local webserver and open your game in your b
 
 `wasm-bindgen` is the tool to generate all the files needed to put the game on your website.
 
+Install it first:
+```sh
+cargo install -f wasm-bindgen-cli  
+```
+
 Run:
 
 ```sh
